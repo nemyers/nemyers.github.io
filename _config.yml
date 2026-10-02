@@ -25,14 +25,14 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nick Myers"
-  bio              : "Cognitive Neuroscience of Memory"
-  location         : "University of Nottingham"
-  employer         : "University of Nottingham"
-  uri              : # URL
+  bio              : "Cognitive Neuroscientist"
+  location         : 
+  employer         : "Assistant Professor at the School of Psychology, University of Nottingham"
+  uri              : "https://www.nottingham.ac.uk/psychology/people/nicholas.myers"
   email            : "nicholas.myers@nottingham.ac.uk" 
 
   # Academic websites
-  academia         : "https://www.nottingham.ac.uk/psychology/people/nicholas.myers"
+  academia         : 
   googlescholar    : "https://scholar.google.com/citations?user=4Ac4HK8AAAAJ"
   orcid            : "https://orcid.org/0000-0001-5599-3044"
 
@@ -41,7 +41,7 @@ author:
   github           : "nemyers"
 
   # Social media
-  bluesky          : "@nick-myers.bsky.social" 
+  bluesky          : "nick-myers.bsky.social" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
