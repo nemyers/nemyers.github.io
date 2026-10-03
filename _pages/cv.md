@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* DPhil Neuroscience, University of Oxford, 2016
+* MSc Neuroscience, University of Oxford, 2011
+* MSc in Neurocognitive Psychology, Ludwig-Maximilians-Univeristy Munich, 2009
+* B.A. in Neuroscience and Behavior, Columbia University, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since 2021: Assistant Professor of Psychology
+  * Univeristy of Nottingham
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2021: Sir Henry Wellcome Postdoctoral Research Fellow
+  * University of Oxford and UC Berkeley
+  * Neural mechanisms of updating in working memory
+  * Supervisors: Mark Stokes (Oxford) and Robert Knight (Berkeley)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016-2019: Junior Research Fellow
+  * University College, Oxford
+    
+* 2015-2016: Postdoctoral Research Fellow
+  * University of Oxford
+  * Supervisor: Kia Nobre
+    
+* 2014-2015: Research Fellow
+  * St. John's College, Oxford
+  * Supervisor: Mark Stokes  
 
 Publications
 ======
@@ -53,12 +49,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
